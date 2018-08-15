@@ -1,7 +1,7 @@
 +++
 title = "Mulai"
 date = 2018-08-15T09:09:54+07:00
-tags = [""]
+tags = ["meta"]
 categories = [""]
 comments = true
 draft = false
