@@ -1,0 +1,394 @@
+@font-face {
+    font-family: "sage sans";
+    src: url("../fonts/sagesans-Regular.woff") format('woff');
+}
+
+body {
+    /* 16px */
+    font: 20px/1 "sage sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #666;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+}
+
+h1 {
+    /* 30px */
+    font-size: 36px;
+    letter-spacing: -1px;
+    color: #222;
+    font-weight: bold;
+}
+
+h2 {
+    font: italic 19px/1.3em Georgia, serif;
+    color: #bbb;
+}
+
+.profile h1 {
+    /* 20px */
+    font-weight: 400;
+    letter-spacing: 0px;
+    font-size: 28px;
+    color: #222;
+}
+
+.profile h2 {
+    /* 20px */
+    font-size: 18px;
+    font-weight: 300;
+    color: #aaa;
+    margin-top: 10px;
+    font-family: "sage sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+}
+
+nav.main-nav a {
+    /* 13px */
+    top: 8px;
+    right: 6px;
+    padding: 8px 12px;
+    color: #5badf0;
+    font-size: 18px;
+    line-height: 1.35;
+    border-radius: 3px;
+}
+
+@media (max-width: 700px) {
+  nav.main-nav a {
+      /* 13px */
+      top: 8px;
+      right: 6px;
+      padding: 8px 8px;
+      color: #5badf0;
+      font-size: 16px;
+      line-height: 1.35;
+      border-radius: 3px;
+  }
+}
+
+b, strong {
+    font-weight: 500;
+    color: #1E2025;
+}
+
+em, i {
+    font-style: italic;
+}
+
+#title {
+    display: inline-block;
+    line-height: 100%;
+    font-weight: 500;
+    font-size: 19px;
+    margin: 0;
+    padding-bottom: 20px;
+}
+
+.description {
+    float: right;
+    font: italic 14px/1.4em Georgia, serif;
+    color: #aaa;
+}
+
+.home h1 {
+    font-size: 30px;
+    letter-spacing: -1px;
+    color: #222;
+    font-weight: bold;
+}
+
+.home h2 {
+    font: italic 19px/1.3em Georgia, serif;
+    color: #bbb;
+}
+
+.post h1 {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    color: #222;
+    font: 300 30px/1.4em "sage sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.post h2 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font: 300 24px/1.5 "sage sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #111;
+}
+
+.post h2.headline {
+    /* 13px */
+    font: normal 16px/1.5em "sage sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: -5px 0 0 0;
+    color: #b2b9be;
+    font-size: 16px;
+    letter-spacing: 1px;
+    display: inline-block;
+}
+
+.post h2.headline .tags {
+    /* 13px */
+    font: normal 14px/1.5em "sage sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: -5px 0 40px 0;
+    color: #b2b9be;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: 5px;
+    display: block;
+}
+
+#post-list h2 {
+    /* 17px */
+    font: normal 18px/1.5em "sage sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #aaa;
+    margin-top: 2px;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+h4 {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+h5 {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+h6 {
+    font-size: 13px;
+    font-weight: bold;
+    color: #666;
+    margin-bottom: 6px;
+}
+
+p.small {
+    color: #bbb;
+    font-size: 14px;
+    line-height: 1.5;
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+}
+
+table {
+    width: 100%;
+    margin: 40px 0;
+    border-collapse: collapse;
+    font-size: 13px;
+    line-height: 1.5em;
+}
+
+thead th, th {
+    text-align: left;
+    padding: 10px 15px;
+    height: 20px;
+    font-size: 13px;
+    font-weight: bold;
+    color: #444;
+    border-bottom: 1px solid #dadadc;
+    cursor: default;
+    white-space: nowrap;
+}
+
+#post-list a {
+    color: #333;
+    display: block;
+    font: bold 19px/1.7 "sage sans", "Helvetica Neue", helvetica, Arial, sans-serif;
+}
+
+#post-list .dates {
+    float: right;
+    position: relative;
+    top: 1px;
+    font: 300 17px/1.8 "sage sans", "Helvetica Neue", helvetica, Arial, sans-serif;
+    color: #bbb;
+}
+
+#archive-link {
+    display: inline-block;
+    font-size: 13px;
+    font-weight: bold;
+    border-radius: 4px;
+    padding: 3px 10px 6px;
+    box-shadow: 0 0 0 1px hsla(207, 83%, 80%, 1);
+}
+
+#archive-link span {
+    position: relative;
+    top: 0;
+    font-size: 17px;
+}
+
+#post-meta {
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 1.4;
+    border-top: 1px solid #eee;
+    padding-top: 40px;
+    margin-bottom: 40px;
+    padding-bottom: 40px;
+    margin-top: 40px;
+    color: #444;
+    border-bottom: 1px solid #eee;
+}
+
+#post-meta div span {
+    color: #aaa;
+    font-weight: 500;
+    display: block;
+}
+
+#sharing a {
+    /* 20px 23px */
+    font-size: 20px;
+    margin-left: 1px;
+    margin-top: 4px;
+    color: #d4d4d4;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#post-nav {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 13px;
+    font-weight: 500;
+    margin-top: 40px;
+}
+
+h2.month {
+    width: 100%;
+    font: bold 13px/1 "sage sans", "Helvetica Neue", helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+#archive-list a {
+    display: block;
+    font: bold 17px/1.7 "sage sans", "Helvetica Neue", helvetica, Arial, sans-serif;
+    color: #333;
+}
+
+#archive-list .dates {
+    float: right;
+    position: relative;
+    top: 1px;
+    font: 300 17px/1.7 "sage sans", "Helvetica Neue", helvetica, Arial, sans-serif;
+    color: #bbb;
+}
+
+#post-list.archive.readmore h3 {
+    font: 400 20px "sage sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-bottom: 30px;
+}
+
+#post-list.archive.readmore a {
+    font: 400 16px/1.6 "sage sans", "Helvetica Neue", helvetica, Arial, sans-serif;
+    color: #5694f1;
+}
+
+#post-list.archive.readmore .dates {
+    font: 300 16px/1.6 "sage sans", "Helvetica Neue", helvetica, Arial, sans-serif;
+}
+
+#sharing a {
+    /* 20px 13px */
+    font-size: 13px;
+    font-weight: bold;
+    color: #fff;
+    padding: 6px 10px;
+    border-radius: 4px;
+    margin-left: 2px;
+}
+
+@media screen and (max-width: 540px) {
+    #title {
+        font-size: 17px;
+    }
+    h1 {
+        font-size: 26px;
+    }
+    .post h2.headline {
+        font-size: 13px;
+    }
+    .post h1 {
+        font-size: 24px;
+    }
+    .post h2 {
+        font-size: 20px;
+    }
+}
+
+.archive {
+    margin: 0 0 50px 0;
+    font-size: 16px;
+}
+
+@media screen and (max-width: 768px) {
+    .archive .post-time {
+        margin: 5px 0;
+        width: auto;
+        font-size: 13px;
+        display: block;
+    }
+}
+
+a.symbol {
+    color: #cdd4da;
+    font-size: 2rem;
+    text-decoration: none;
+    margin-right: 0.3rem;
+}
+
+#toc {
+  line-height: 1em;
+  font-size: .7em;
+  word-wrap: break-word;
+  padding: 8px;
+  padding-left: 16px;
+  padding-bottom: 14px;
+  margin: 0 0 25px 0;
+  display: block;
+  color: #808080;
+  background: #fff;
+  border: none;
+  box-shadow: inset 0 0 0 1px #E4EBF2;
+  border-radius: 4px;
+  overflow: hidden;
+  font-family: 'Menlo', 'Monaco', Courier, monospace;
+}
+
+#TableOfContents a code{
+  font-family: Menlo, Monaco, Courier;
+  background-color: #fff;
+  font-size: 11px;
+  padding: 2px 3px;
+  font-weight: 100;
+}
+
+.page-tags ul li {
+    margin: 10px 15px;
+    display: inline-block;
+    font-size: 1.25em;
+}
+
+.page-tags ul li a span {
+    font-size: 1em;
+}
+
+.post > a {
+    font-size: 18px;
+}
+
+#post-list li {
+    margin-left: 0;
+}
