@@ -10,7 +10,7 @@ hasCJKLanguage = false
 [params]
     author = "laymonage"
     description = "free writing"
-    bio = "free writing about stuffs to flee from other stuffs"
+    bio = "free writing about stuffs<br>to flee from other stuffs"
 
     # twitter = "twitter_id"
     # facebook = "facebook_id"

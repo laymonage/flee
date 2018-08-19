@@ -334,6 +334,10 @@ h2.month {
 }
 
 @media screen and (max-width: 768px) {
+    body {
+        font: 18px/1 "sage sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+
     .archive .post-time {
         margin: 5px 0;
         width: auto;
