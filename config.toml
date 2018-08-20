@@ -59,8 +59,8 @@ hasCJKLanguage = false
 
     # Share
     enableShare = true
-    tweet = ""
-    share = ""
+    tweet = "tweet"
+    share = "share"
 
     # 404 page
     title404 = ""
