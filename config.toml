@@ -46,10 +46,11 @@ hasCJKLanguage = false
     # translate or customize each string of the theme.
 
     # Navigation links
-    home = ""
-    about = ""
-    archive = ""
-    subscribe = ""
+    home = "home"
+    about = "about"
+    archive = "archive"
+    subscribe = "subscribe"
+    tags = "tags"
 
     olderPosts = ""
     newerPosts = ""
