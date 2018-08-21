@@ -10,6 +10,8 @@ hasCJKLanguage = false
 [params]
     author = "laymonage"
     description = "free writing"
+    avatarLink = ""
+    avatarImage = "logo.svg"
     bio = "free writing about stuffs<br>to flee from other stuffs"
 
     # twitter = "twitter_id"
@@ -37,7 +39,7 @@ hasCJKLanguage = false
     twitterCardImage = ""
 
     # Add custom assets with their paths relative to the static folder
-    customCSS = ["css/fonts.css"]
+    customCSS = ["css/custom.css", "css/fonts.css"]
     customJS  = []
 
     # The variables below are optionally too and can be used to
