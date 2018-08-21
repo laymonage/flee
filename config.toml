@@ -38,6 +38,8 @@ hasCJKLanguage = false
     # The url for twitter card image, default is avatar.png in static/images directory
     twitterCardImage = ""
 
+    enableIconCompat = true
+
     # Add custom assets with their paths relative to the static folder
     customCSS = ["css/custom.css", "css/fonts.css"]
     customJS  = []
