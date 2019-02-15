@@ -29,6 +29,9 @@ hasCJKLanguage = false
     useDescriptionReplaceSummary = false
 
 
+    enableNetlifyCMS = true
+
+
     enableGoogleAnalytics = false
     enableBaiduAnalytics = false
     # Set the value to your baidu analysis code if you want to use baidu analytics
