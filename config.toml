@@ -85,3 +85,8 @@ hasCJKLanguage = false
     # facebook-square = "https://fb.com/"
     # twitter-square = "https://twitter.com/"
     # github-square = "https://github.com/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
