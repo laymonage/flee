@@ -1,3 +1,4 @@
 [submodule "themes/hugo-theme-cactus-plus"]
 	path = themes/hugo-theme-cactus-plus
 	url = https://github.com/laymonage/hugo-theme-cactus-plus.git
+	branch = my-edits
