@@ -386,15 +386,19 @@ a.symbol {
   box-shadow: inset 0 0 0 1px #E4EBF2;
   border-radius: 4px;
   overflow: hidden;
-  font-family: 'Menlo', 'Monaco', Courier, monospace;
+  font-family: 'DejaVu Sans Mono', 'Menlo', 'Monaco', Courier, monospace;
 }
 
 #TableOfContents a code{
-  font-family: Menlo, Monaco, Courier;
+  font-family: 'DejaVu Sans Mono', Menlo, Monaco, Courier, monospace;
   background-color: #fff;
   font-size: 11px;
   padding: 2px 3px;
   font-weight: 100;
+}
+
+code {
+    font-family: 'DejaVu Sans Mono', Menlo, Monaco, Courier, monospace;
 }
 
 .page-tags ul li {
