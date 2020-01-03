@@ -1,20 +1,28 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: laymonage/flee
   branch: master
+  preview_context: netlify/preview
 
 publish_mode: editorial_workflow
-media_folder: "static/images/uploads"
-public_folder: "/images/uploads"
+media_folder: static/images/uploads
+public_folder: /images/uploads
+site_url: https://flee.laymonage.com
+logo_url: https://flee.laymonage.com/images/logo.svg
 
 collections:
-  - name: "posts"
-    label: "Posts"
-    folder: "content/posts"
+  - name: posts
+    label: Posts
+    label_singular: Post
+    folder: content/posts
     create: true
+    format: toml-frontmatter
     slug: "{{slug}}"
+    preview_path: "posts/{{slug}}"
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Enable Table of Contents", name: "toc", widget: "boolean", default: false}
       - {label: "Enable comments", name: "comments", widget: "boolean", default: true}
       - {label: "Body", name: "body", widget: "markdown"}
