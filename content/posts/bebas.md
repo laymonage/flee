@@ -1,7 +1,7 @@
 +++
 title = "Bebas"
 date = 2020-01-05T19:17:01.414Z
-tags = ["personal"]
+tags = ["meta", "music", "projects", "personal"]
 toc = false
 comments = true
 +++
