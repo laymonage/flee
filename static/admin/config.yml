@@ -1,8 +1,6 @@
 backend:
   name: github
   repo: laymonage/flee
-  branch: master
-  preview_context: netlify/preview
 
 publish_mode: editorial_workflow
 media_folder: static/images/uploads
