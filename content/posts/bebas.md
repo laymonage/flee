@@ -5,6 +5,7 @@ tags = ["meta", "music", "projects", "personal"]
 toc = false
 comments = true
 +++
+
 Hore, wacana lagi!
 
 <!--more-->
