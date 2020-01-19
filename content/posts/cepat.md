@@ -66,7 +66,7 @@ Aku juga menonton (500) Days of Summer. Cukup mengesankan. Inti ceritanya
 bisa dibilang tentang perbedaan antara *loving a person* vs.
 *loving the **idea** of a person*.
 
-![Scott Pilgrim vs. The World](http://berlinfilmjournal.com/wp-content/uploads/2014/06/scott-pilgrim-vs-the-world-official-trailer-hd-1170x633.jpg)
+![Scott Pilgrim vs. The World](https://berlinfilmjournal.com/wp-content/uploads/2014/06/scott-pilgrim-vs-the-world-official-trailer-hd-1170x633.jpg)
 
 Kemudian aku menonton Scott Pilgrim vs. The World. Film absurd yang juga
 adaptasi dari serial komik ini lumayan seru, menurutku. Ceritanya agak bodoh
@@ -87,11 +87,14 @@ brothers yang merupakan adaptasi dari sebuah novel ini sangat seru menurutku.
 Seorang pemburu menemukan sekoper uang dari sebuah transaksi narkoba yang gagal,
 dan sekarang ia dikejar oleh seorang psikopat yang mengincar uang tersebut.
 
-![Anton Chigurh](http://images.amcnetworks.com/ifccenter.com/wp-content/uploads/2018/10/no-country-for-old-men_1280x720.jpg)
+![Anton Chigurh](https://images.amcnetworks.com/ifccenter.com/wp-content/uploads/2018/10/no-country-for-old-men_1280x720.jpg)
 
-Aktor yang memerankan Anton Chigurh, sang psikopat, sangat berbakat. Ekspresi
-wajahnya, cara berbicaranya, dan tingkah lakunya sangat mengesankan. Belum lagi
-senjatanya yang sangat tidak biasa.
+Javier Bardem, aktor yang memerankan Anton Chigurh, sang psikopat, sangat berbakat.
+Ekspresi wajahnya, cara berbicaranya, dan tingkah lakunya berhasil membuat karakter
+ini sangat *unnerving*. Belum lagi senjatanya yang sangat tidak biasa.
+*Also, that haircut, seriously!*
+
+{{< youtube class="youtube-video" id="qZL0Ru-55u8?start=92" >}}
 
 Film ini sederhananya berisi kucing-kucingan antara kedua tokoh tersebut. Namun,
 bila dilihat lebih dalam, sebenarnya film ini menyimpan banyak pesan mengenai
