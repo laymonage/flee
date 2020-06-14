@@ -66,11 +66,6 @@ nav.main-nav a {
   }
 }
 
-b, strong {
-    font-weight: 600;
-    color: #1E2025;
-}
-
 em, i {
     font-style: italic;
 }
