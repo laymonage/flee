@@ -7,6 +7,8 @@ comments = true
 +++
 I am writing this post. A post that's not quite like the others.
 
+<!--more-->
+
 You see, we create patterns in our lives. Consciously or not.
 
 Some patterns make it easy to live through the day. Some make it mundane.
