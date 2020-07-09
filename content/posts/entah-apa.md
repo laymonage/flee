@@ -1,6 +1,6 @@
 +++
 title = "Entah apa"
-date = 2020-07-09T21:42:21.320
+date = 2020-07-09T15:50:00.434Z
 tags = ["meta", "personal"]
 toc = false
 comments = true
