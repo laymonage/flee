@@ -1,5 +1,5 @@
 # flee
 
 A static site built using Hugo and deployed on Netlify.
-Made up of free writing about stuffs to flee from other stuffs.
+Made up of free writing about stuff to flee from other stuff.
 https://flee.laymonage.com

@@ -12,7 +12,7 @@ hasCJKLanguage = false
     description = "free writing"
     avatarLink = ""
     avatarImage = "logo.svg"
-    bio = "free writing about stuffs<br>to flee from other stuffs"
+    bio = "free writing about stuff<br>to flee from other stuff"
 
     # twitter = "twitter_id"
     # facebook = "facebook_id"
