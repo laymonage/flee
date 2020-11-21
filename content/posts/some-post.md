@@ -5,7 +5,7 @@ tags = ["personal", "academic"]
 toc = false
 comments = true
 +++
-Jadi seharusnya gw ngepost di tempat lain, bukan di sini. Masih ngutang banyak pula. Tapi entah kenapa pengen nulis di sini lagi.
+Jadi seharusnya gw ngepost di tempat lain, bukan di sini. <!--more--> Masih ngutang banyak pula. Tapi entah kenapa pengen nulis di sini lagi.
 
 Sebenernya pengen ga nulis di sini setelah post sebelumnya, sampai selesai semester ini. Biar kayak bener-bener ditahan aja semua yang mau ditulis, trus tulis sepuasnya setelah semuanya selesai. Tapi...
 
